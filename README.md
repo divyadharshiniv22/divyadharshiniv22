@@ -1,6 +1,3 @@
-## Hi there 👋
-<!-- Level 1: Simple bio and stats -->
-
 ### Hi, I'm Divya Dharshini!
 
 📊 Aspiring Data Analyst with a background in Electronics and Communication Engineering (ECE)<br/>
